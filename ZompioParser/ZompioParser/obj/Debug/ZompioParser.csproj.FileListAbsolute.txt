@@ -1,0 +1,8 @@
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\bin\Debug\ZompioParser.exe.config
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\bin\Debug\ZompioParser.exe
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\bin\Debug\ZompioParser.pdb
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\bin\Debug\Newtonsoft.Json.xml
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\obj\Debug\ZompioParser.csprojResolveAssemblyReference.cache
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\obj\Debug\ZompioParser.exe
+c:\users\divyang\documents\visual studio 2013\Projects\ZompioParser\ZompioParser\obj\Debug\ZompioParser.pdb
